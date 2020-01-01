@@ -6,3 +6,6 @@ If the Notebook is not rendering on GitHub please paste that project URL at the 
 
 https://nbviewer.jupyter.org/
 
+To Do List for Update:
+1. Update PDF for Typos
+2. Try new Clustering algos
