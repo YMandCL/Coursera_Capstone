@@ -9,3 +9,4 @@ https://nbviewer.jupyter.org/
 To Do List for Update:
 1. Update PDF for Typos
 2. Try new Clustering algos
+3. Feature Extraction
